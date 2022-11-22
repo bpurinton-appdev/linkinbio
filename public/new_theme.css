@@ -2,13 +2,37 @@ body {
   font-family: 'Crimson Pro', serif;
   padding-top: 50px;
   padding-bottom: 50px;
+  background-color: #55423d;
 }
+
+.name {
+  color: #fffffe;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+.social-icons a {
+  color: #fff3ec;
+  text-decoration: none;
+}
+
+.link {
+  background-color: #ffc0ad;
+}
+
+.link a {
+  color: #001e1d;
+  text-decoration: none;
+}
+
 
 .banner-image {
   width: 150px;
   /* height: 128px; */
   object-fit: cover;
   border-radius: 5px;
+  border: thick #fffffe solid;
 }
 
 .link-thumbnail {
@@ -16,4 +40,5 @@ body {
   height: 72px;
   border-radius: 72px;
   object-fit: cover;
+  border: medium #001e1d solid;
 }
