@@ -1,0 +1,12 @@
+body {
+  font-family: 'Crimson Pro', serif;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.banner-image {
+  width: 200px;
+  /* height: 128px; */
+  object-fit: cover;
+  border-radius: 5px;
+}
