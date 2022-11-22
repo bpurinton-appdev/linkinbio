@@ -1,12 +1,19 @@
-body {
+/* body {
   font-family: 'Crimson Pro', serif;
   padding-top: 50px;
   padding-bottom: 50px;
-}
+} */
 
-.banner-image {
-  width: 200px;
-  /* height: 128px; */
+/* .banner-image {
+  width: 00px;
+  height: 128px;
   object-fit: cover;
   border-radius: 5px;
-}
+} */
+
+/* .link-thumbnail {
+  width: 48px;
+  height: 48px;
+  border-radius: 48px;
+  object-fit: cover;
+} */
